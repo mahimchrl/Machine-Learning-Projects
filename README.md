@@ -1,0 +1,9 @@
+## End to End Machine Learning Project.
+
+Step 1: Explore the dataset (df.info(), df.describe() etc.)
+Step 2: See if there are any missing values or not, ideally part of step 1. Don't treat the missing values yet.
+Step 3: Split the data into training and testing, and don't look at test set. Parition the test such that the categories are well representative of the full dataset. 
+Step 4: Data Exploration using visualizations
+    a. scatter plots
+    b. correlation matrix
+    c. bascially know more about your data w.r.to target variable
